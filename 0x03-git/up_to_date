@@ -1,3 +1,1 @@
-cd 0x03-git
-vi up_to_date
-and then :wq to save the file and it's will be automatically saved 
+git pull
